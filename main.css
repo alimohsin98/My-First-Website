@@ -1,0 +1,45 @@
+html {
+    background-color: brown;
+    color: gold}
+
+h1 {text-align: center;
+    font-size: 50px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+p {text-align: center;
+    font-size: 30px;}
+a {font-size: 30px;}
+.other {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+a:link {text-align: center;
+    color:gold}
+A:visited {text-align: center;
+    color:gold}
+a:link {text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.image1 {object-position: center;
+    border-radius: 60%;
+width: 450px; height:300px}
+p {font-size: 20px;}
+.image2{width: 200px; height: 150px}
+.image3{border-radius: 60%;
+    width:250px; height:200px}
+.image4{border-radius: 60%;
+    width:250px; height:200px}
+.image5{
+    border-radius: 60%; width: 150px;height:150px;}
+.image6{border-radius: 60%;
+    width: 150px;height:150px;}
+.image7{border-radius: 60%; width:150px; height: 150px}
+.image8{border-radius: 60%; width:150px; height: 150px}
+.image9{border-radius: 60%; width:150px; height: 150px}
+.image10{border-radius: 60%; width:150px; height: 150px}
+.image11{border-radius: 60%; width:150px; height: 150px}
+.image12{border-radius: 60%; width:150px; height: 150px}
+.image13{border-radius: 60%;
+    width: 450px; height:300px}
+.navbar {display: flex;
+flex-direction: row;
+min-height: 50px;
+background-color:maroon;
+text-align: center;
+justify-content: space-around;}
+.nav {display: inline-block;}
